@@ -1,0 +1,24 @@
+{
+  "name": "estudos-es6",
+  "version": "1.0.0",
+  "description": "Um simples projeto de estudo ES6 (ECMAScript 2015)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon",
+    "lint": "eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cassioafs/estudos-es6"
+  },
+  "keywords": [
+    "ES6",
+    "ECMASscript2015",
+    "ES2015"
+  ],
+  "author": "Cássio Alves",
+  "devDependencies": {
+    "eslint": "^3.14.0",
+    "nodemon": "^1.11.0"
+  }
+}
