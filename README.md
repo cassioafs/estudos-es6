@@ -1,2 +1,2 @@
 # estudos-es6
-Projeo de estudos ES6
+Projeto de estudos ES6
